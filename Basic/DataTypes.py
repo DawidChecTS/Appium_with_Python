@@ -56,4 +56,3 @@ a = "Hey" in name_4
 b = "You" is not name_4
 print(a)
 print(b)
-

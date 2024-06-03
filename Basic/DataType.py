@@ -42,7 +42,7 @@ print(type(name))
 Ex : name_list = [1, "python", 2.3, 4]
 """
 
-name_list = [1, "python", 2.2,1]
+name_list = [1, "python", 2.2, 1]
 
 print(name_list)
 print(type(name_list))
