@@ -76,3 +76,7 @@ def arbitraryKeywordArgumentsMethod(**kwargs):
 
 
 arbitraryKeywordArgumentsMethod(address="Salviatorget", number=12, name="TheWeed", justnumber=123)
+
+
+def emptyMethod():
+    pass
