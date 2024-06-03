@@ -66,7 +66,7 @@ print(type(name_list))
 
 #********************************* 5. Dictionary Data Type ****************************************
 """
-- Dictionaries are the key and value pairs. Which are written  with crly brackets. " { } "
+- Dictionaries are the key and value pairs. Which are written  with curly brackets. " { } "
 Ex:
 
 employeeData = {
