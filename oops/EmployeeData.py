@@ -1,7 +1,8 @@
 #Creating of a class object
 class EmployeeDetails:
-    company = "XYZ"
+    _company = "XYZ"
 
+    #Data Hiding with _
     def __init__(self, name, number, address):
         self.name = name
         self.number = number
@@ -20,6 +21,9 @@ class EmployeeDetails:
 
     def empAddress(self):
         print("Employee's address is: ", self.address)
+
+    def empCompany(self):
+        print("This is a company:", self._company)
 
 
 emp = EmployeeDetails("Dawid", 13, "Salviatorget")

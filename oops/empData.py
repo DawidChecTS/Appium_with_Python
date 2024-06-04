@@ -17,4 +17,5 @@ class EmpDetails(EmployeeDetails):
 emp = EmpDetails("Peter", 12312321, "Göteborg")
 
 emp.empName2()
-print(emp.company)
+#print(emp.company) - data hiding makes it impossible to refer to that variable
+emp.empCompany() # It is only possible to call on the function that has data hidden variable inside
