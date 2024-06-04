@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6da95435-ce44-46aa-bb8b-ef1d9c6743bf" name="Changes" comment="Adding super()keyword to empData">
+    <list default="true" id="6da95435-ce44-46aa-bb8b-ef1d9c6743bf" name="Changes" comment="Adding data hiding function: _company to empDat and EmployeeData files">
+      <change afterPath="$PROJECT_DIR$/Decorators_Concept/Decorators_Concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorators_Concept/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops/EmployeeData.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/EmployeeData.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops/empData.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/empData.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +57,7 @@
     "Python.Conditional_Statements.executor": "Run",
     "Python.DataType.executor": "Run",
     "Python.DataTypes.executor": "Run",
+    "Python.Decorators_Concept.executor": "Run",
     "Python.Dictionary_DataType.executor": "Run",
     "Python.EmployeeData.executor": "Run",
     "Python.For_Loop_Concept.executor": "Run",
@@ -80,7 +81,29 @@
       <recent name="C:\Users\Dawid.Chec\PycharmProjects\Python_Appium_Autotest\Loops_Concept" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.empData">
+  <component name="RunManager" selected="Python.Decorators_Concept">
+    <configuration name="Decorators_Concept" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Appium_Autotest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Decorators_Concept" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Decorators_Concept/Decorators_Concept.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="EmployeeData" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Appium_Autotest" />
       <option name="ENV_FILES" value="" />
@@ -95,28 +118,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oops/EmployeeData.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="For_Loop_Concept" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Appium_Autotest" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Dawid.Chec\PycharmProjects\Python_Appium_Autotest\Loops_Concept\For_Loop_Concept.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Decorators_Concept" />
         <item itemvalue="Python.empData" />
         <item itemvalue="Python.EmployeeData" />
         <item itemvalue="Python.Lambda_Concept" />
         <item itemvalue="Python.Functions_Concepts" />
-        <item itemvalue="Python.For_Loop_Concept" />
       </list>
     </recent_temporary>
   </component>
@@ -409,7 +410,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717485709764</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Adding data hiding function: _company to empDat and EmployeeData files">
+      <option name="closed" value="true" />
+      <created>1717486213057</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1717486213057</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -437,6 +446,7 @@
     <MESSAGE value="Adding EmployeeData ands Oops files." />
     <MESSAGE value="Adding empdData file" />
     <MESSAGE value="Adding super()keyword to empData" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding super()keyword to empData" />
+    <MESSAGE value="Adding data hiding function: _company to empDat and EmployeeData files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding data hiding function: _company to empDat and EmployeeData files" />
   </component>
 </project>
