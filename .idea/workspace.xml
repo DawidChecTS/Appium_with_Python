@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6da95435-ce44-46aa-bb8b-ef1d9c6743bf" name="Changes" comment="Adding DataTypes file">
-      <change afterPath="$PROJECT_DIR$/Basic/List_DataType.py" afterDir="false" />
+    <list default="true" id="6da95435-ce44-46aa-bb8b-ef1d9c6743bf" name="Changes" comment="Adding EmployeeData ands Oops files.">
+      <change afterPath="$PROJECT_DIR$/oops/empData.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/EmployeeData.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/EmployeeData.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,21 +51,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Casting_Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DataType.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DataTypes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.List_DataType.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Variables.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Casting_Variables.executor": "Run",
+    "Python.Conditional_Statements.executor": "Run",
+    "Python.DataType.executor": "Run",
+    "Python.DataTypes.executor": "Run",
+    "Python.Dictionary_DataType.executor": "Run",
+    "Python.EmployeeData.executor": "Run",
+    "Python.For_Loop_Concept.executor": "Run",
+    "Python.Functions_Concepts.executor": "Run",
+    "Python.Lambda_Concept.executor": "Run",
+    "Python.List_DataType.executor": "Run",
+    "Python.Operators.executor": "Run",
+    "Python.Set_Concept.executor": "Run",
+    "Python.Tuple_DataType.executor": "Run",
+    "Python.Variables.executor": "Run",
+    "Python.While_Loop_Concept.executor": "Run",
+    "Python.empData.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Python.List_DataType">
-    <configuration name="Casting_Variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dawid.Chec\PycharmProjects\Python_Appium_Autotest\Conditional_Statements" />
+      <recent name="C:\Users\Dawid.Chec\PycharmProjects\Python_Appium_Autotest\Loops_Concept" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.empData">
+    <configuration name="EmployeeData" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Appium_Autotest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/Casting_Variables.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oops/EmployeeData.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DataType" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="For_Loop_Concept" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Appium_Autotest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/DataType.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Dawid.Chec\PycharmProjects\Python_Appium_Autotest\Loops_Concept\For_Loop_Concept.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DataTypes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Functions_Concepts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Appium_Autotest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functions_Concepts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/DataTypes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions_Concepts/Functions_Concepts.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="List_DataType" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lambda_Concept" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Appium_Autotest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,11 +156,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functions_Concepts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/List_DataType.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions_Concepts/Lambda_Concept.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Operators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="empData" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Appium_Autotest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,11 +178,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic/Operators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oops/empData.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.List_DataType" />
-        <item itemvalue="Python.DataTypes" />
-        <item itemvalue="Python.Operators" />
-        <item itemvalue="Python.Casting_Variables" />
-        <item itemvalue="Python.DataType" />
+        <item itemvalue="Python.empData" />
+        <item itemvalue="Python.EmployeeData" />
+        <item itemvalue="Python.Lambda_Concept" />
+        <item itemvalue="Python.Functions_Concepts" />
+        <item itemvalue="Python.For_Loop_Concept" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +281,111 @@
       <option name="project" value="LOCAL" />
       <updated>1717404352583</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Adding DataTypes file">
+      <option name="closed" value="true" />
+      <created>1717410535090</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717410535090</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Adding DataTypes file">
+      <option name="closed" value="true" />
+      <created>1717410543988</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1717410543988</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1717410591057</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1717410591057</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Adding Tuple_DataType file">
+      <option name="closed" value="true" />
+      <created>1717412846813</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1717412846813</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Adding Dictionary file">
+      <option name="closed" value="true" />
+      <created>1717415310757</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1717415310757</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Adding Set_Concept file">
+      <option name="closed" value="true" />
+      <created>1717417672840</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1717417672840</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Adding Set_Concept file">
+      <option name="closed" value="true" />
+      <created>1717418707007</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1717418707007</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Adding While_Loop_Concept file">
+      <option name="closed" value="true" />
+      <created>1717420309041</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1717420309041</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Adding While_Loop_Concept file">
+      <option name="closed" value="true" />
+      <created>1717421112986</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1717421112986</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Refactoring Project.">
+      <option name="closed" value="true" />
+      <created>1717422599581</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1717422599581</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Functions.Concepts file added">
+      <option name="closed" value="true" />
+      <created>1717424517028</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1717424517028</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Functions.Concepts file added">
+      <option name="closed" value="true" />
+      <created>1717424959274</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1717424959274</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Adding EmployeeData ands Oops files.">
+      <option name="closed" value="true" />
+      <created>1717426983934</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1717426983934</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -280,7 +401,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding Operators file" />
+    <MESSAGE value="AddingList_dATAtYPE FILE?" />
     <MESSAGE value="Adding DataTypes file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding DataTypes file" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="Adding Tuple_DataType file" />
+    <MESSAGE value="Adding Dictionary file" />
+    <MESSAGE value="Adding Set_Concept file" />
+    <MESSAGE value="Adding While_Loop_Concept file" />
+    <MESSAGE value="Refactoring Project." />
+    <MESSAGE value="Functions.Concepts file added" />
+    <MESSAGE value="Adding EmployeeData ands Oops files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding EmployeeData ands Oops files." />
   </component>
 </project>

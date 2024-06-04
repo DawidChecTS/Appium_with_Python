@@ -1,5 +1,7 @@
+#Creating of a class object
 class EmployeeDetails:
 
+    company= "XYZ"
     def __init__(self, name, number, address):
         self.name = name
         self.number = number
@@ -22,8 +24,8 @@ class EmployeeDetails:
 
 emp = EmployeeDetails("Dawid", 13, "Salviatorget")
 
-emp.empDetails("Michael", 15, "Alle")
+#emp.empDetails("Michael", 15, "Alle")
 
-emp.empName()
-emp.empNum()
-emp.empAddress()
+#emp.empName()
+#emp.empNum()
+#emp.empAddress()
