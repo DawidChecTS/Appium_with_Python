@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6da95435-ce44-46aa-bb8b-ef1d9c6743bf" name="Changes" comment="Adding EmployeeData ands Oops files.">
-      <change afterPath="$PROJECT_DIR$/oops/empData.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops/EmployeeData.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/EmployeeData.py" afterDir="false" />
+    <list default="true" id="6da95435-ce44-46aa-bb8b-ef1d9c6743bf" name="Changes" comment="Adding empdData file">
+      <change beforePath="$PROJECT_DIR$/oops/empData.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/empData.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -385,7 +383,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717426983934</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Adding empdData file">
+      <option name="closed" value="true" />
+      <created>1717485132598</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1717485132598</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Adding empdData file">
+      <option name="closed" value="true" />
+      <created>1717485158442</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1717485158442</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -411,6 +425,7 @@
     <MESSAGE value="Refactoring Project." />
     <MESSAGE value="Functions.Concepts file added" />
     <MESSAGE value="Adding EmployeeData ands Oops files." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding EmployeeData ands Oops files." />
+    <MESSAGE value="Adding empdData file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding empdData file" />
   </component>
 </project>

@@ -1,7 +1,7 @@
 #Creating of a class object
 class EmployeeDetails:
+    company = "XYZ"
 
-    company= "XYZ"
     def __init__(self, name, number, address):
         self.name = name
         self.number = number
